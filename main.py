@@ -1,4 +1,4 @@
 import pygame
 
-for i in range(20):
+for frozenset in range(20):
   print(i)
